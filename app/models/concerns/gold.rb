@@ -1,5 +1,5 @@
 class Gold
   def gold
-    puts 'gold'
+    puts 'gold' +grrreeennn
   end
 end
